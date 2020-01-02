@@ -1,0 +1,14 @@
+data=DistalPhalanxOutlineCorrect:K=1
+data=HandOutlines:K=1
+data=MoteStrain:K=1
+data=SonyAIBORobotSurfaceII:K=1
+data=Lighting2:K=13
+data=ECG200:K=8
+data=ToeSegmentation2:K=7
+data=DiatomSizeReduction_3_1:K=1
+data=DiatomSizeReduction_2_1:K=1
+data=DiatomSizeReduction_4_1:K=1
+data=StarLightCurves_2_1:K=8
+data=ECG5000_2_5:K=4
+data=ECG5000_2_3:K=4
+data=ECG5000_2_4:K=4
