@@ -1,0 +1,581 @@
+================ Training Loss (Fri Oct 25 15:41:08 2019) ================
+================ Training Loss (Fri Oct 25 15:41:12 2019) ================
+================ Training Loss (Fri Oct 25 15:41:12 2019) ================
+================ Training Loss (Fri Oct 25 15:41:12 2019) ================
+================ Training Loss (Fri Oct 25 15:41:12 2019) ================
+================ Training Loss (Fri Oct 25 15:41:12 2019) ================
+================ Training Loss (Fri Oct 25 15:41:12 2019) ================
+================ Training Loss (Fri Oct 25 15:41:12 2019) ================
+================ Training Loss (Fri Oct 25 15:41:12 2019) ================
+================ Training Loss (Fri Oct 25 15:43:16 2019) ================
+================ Training Loss (Fri Oct 25 15:43:47 2019) ================
+================ Training Loss (Fri Oct 25 15:43:49 2019) ================
+================ Training Loss (Fri Oct 25 15:45:34 2019) ================
+================ Training Loss (Fri Oct 25 15:45:37 2019) ================
+================ Training Loss (Fri Oct 25 15:46:19 2019) ================
+================ Training Loss (Fri Oct 25 15:46:21 2019) ================
+================ Training Loss (Fri Oct 25 15:46:22 2019) ================
+================ Training Loss (Fri Oct 25 15:46:22 2019) ================
+================ Training Loss (Fri Oct 25 15:46:22 2019) ================
+================ Training Loss (Fri Oct 25 15:46:22 2019) ================
+================ Training Loss (Fri Oct 25 15:46:22 2019) ================
+================ Training Loss (Fri Oct 25 15:46:22 2019) ================
+================ Training Loss (Fri Oct 25 15:46:22 2019) ================
+================ Training Loss (Fri Oct 25 15:51:39 2019) ================
+================ Training Loss (Fri Oct 25 16:40:22 2019) ================
+================ Training Loss (Fri Oct 25 16:40:54 2019) ================
+================ Training Loss (Fri Oct 25 16:41:16 2019) ================
+================ Training Loss (Fri Oct 25 16:42:00 2019) ================
+   Avg Run Time (ms/batch): 2.672 AUC: 0.878 max AUC: 0.878
+   Avg Run Time (ms/batch): 2.802 AUC: 0.845 max AUC: 0.878
+   Avg Run Time (ms/batch): 2.782 AUC: 0.856 max AUC: 0.878
+   Avg Run Time (ms/batch): 2.787 AUC: 0.853 max AUC: 0.878
+   Avg Run Time (ms/batch): 2.843 AUC: 0.836 max AUC: 0.878
+   Avg Run Time (ms/batch): 2.663 AUC: 0.821 max AUC: 0.878
+   Avg Run Time (ms/batch): 2.723 AUC: 0.810 max AUC: 0.878
+   Avg Run Time (ms/batch): 2.713 AUC: 0.845 max AUC: 0.878
+   Avg Run Time (ms/batch): 2.552 AUC: 0.779 max AUC: 0.878
+   Avg Run Time (ms/batch): 2.672 AUC: 0.781 max AUC: 0.878
+   Avg Run Time (ms/batch): 2.702 AUC: 0.804 max AUC: 0.878
+   Avg Run Time (ms/batch): 2.652 AUC: 0.807 max AUC: 0.878
+   Avg Run Time (ms/batch): 2.703 AUC: 0.772 max AUC: 0.878
+   Avg Run Time (ms/batch): 2.587 AUC: 0.794 max AUC: 0.878
+   Avg Run Time (ms/batch): 2.662 AUC: 0.787 max AUC: 0.878
+================ Training Loss (Fri Oct 25 17:10:28 2019) ================
+   Avg Run Time (ms/batch): 2.863 AUC: 0.206 max AUC: 0.206
+   Avg Run Time (ms/batch): 2.873 AUC: 0.162 max AUC: 0.206
+   Avg Run Time (ms/batch): 2.652 AUC: 0.124 max AUC: 0.206
+   Avg Run Time (ms/batch): 2.652 AUC: 0.076 max AUC: 0.206
+   Avg Run Time (ms/batch): 2.813 AUC: 0.146 max AUC: 0.206
+   Avg Run Time (ms/batch): 2.843 AUC: 0.123 max AUC: 0.206
+   Avg Run Time (ms/batch): 2.742 AUC: 0.141 max AUC: 0.206
+   Avg Run Time (ms/batch): 2.883 AUC: 0.097 max AUC: 0.206
+   Avg Run Time (ms/batch): 2.522 AUC: 0.137 max AUC: 0.206
+   Avg Run Time (ms/batch): 2.803 AUC: 0.090 max AUC: 0.206
+   Avg Run Time (ms/batch): 2.752 AUC: 0.097 max AUC: 0.206
+   Avg Run Time (ms/batch): 2.732 AUC: 0.155 max AUC: 0.206
+   Avg Run Time (ms/batch): 2.862 AUC: 0.144 max AUC: 0.206
+   Avg Run Time (ms/batch): 2.783 AUC: 0.152 max AUC: 0.206
+   Avg Run Time (ms/batch): 2.873 AUC: 0.154 max AUC: 0.206
+================ Training Loss (Fri Oct 25 17:26:01 2019) ================
+   Avg Run Time (ms/batch): 2.738 AUC: 0.940 max AUC: 0.940
+   Avg Run Time (ms/batch): 2.697 AUC: 0.914 max AUC: 0.940
+   Avg Run Time (ms/batch): 2.803 AUC: 0.901 max AUC: 0.940
+   Avg Run Time (ms/batch): 2.772 AUC: 0.908 max AUC: 0.940
+   Avg Run Time (ms/batch): 2.683 AUC: 0.887 max AUC: 0.940
+   Avg Run Time (ms/batch): 2.823 AUC: 0.880 max AUC: 0.940
+   Avg Run Time (ms/batch): 2.712 AUC: 0.871 max AUC: 0.940
+   Avg Run Time (ms/batch): 2.723 AUC: 0.843 max AUC: 0.940
+   Avg Run Time (ms/batch): 2.773 AUC: 0.846 max AUC: 0.940
+   Avg Run Time (ms/batch): 2.763 AUC: 0.850 max AUC: 0.940
+   Avg Run Time (ms/batch): 2.703 AUC: 0.873 max AUC: 0.940
+   Avg Run Time (ms/batch): 2.662 AUC: 0.848 max AUC: 0.940
+   Avg Run Time (ms/batch): 2.713 AUC: 0.842 max AUC: 0.940
+   Avg Run Time (ms/batch): 2.773 AUC: 0.853 max AUC: 0.940
+   Avg Run Time (ms/batch): 2.713 AUC: 0.853 max AUC: 0.940
+================ Training Loss (Fri Oct 25 17:35:03 2019) ================
+   Avg Run Time (ms/batch): 2.683 AUC: 0.812 max AUC: 0.812
+   Avg Run Time (ms/batch): 2.712 AUC: 0.841 max AUC: 0.841
+   Avg Run Time (ms/batch): 2.733 AUC: 0.757 max AUC: 0.841
+   Avg Run Time (ms/batch): 2.722 AUC: 0.769 max AUC: 0.841
+   Avg Run Time (ms/batch): 2.683 AUC: 0.705 max AUC: 0.841
+   Avg Run Time (ms/batch): 2.723 AUC: 0.729 max AUC: 0.841
+   Avg Run Time (ms/batch): 2.703 AUC: 0.723 max AUC: 0.841
+   Avg Run Time (ms/batch): 2.723 AUC: 0.729 max AUC: 0.841
+   Avg Run Time (ms/batch): 2.742 AUC: 0.690 max AUC: 0.841
+   Avg Run Time (ms/batch): 2.723 AUC: 0.717 max AUC: 0.841
+   Avg Run Time (ms/batch): 2.733 AUC: 0.719 max AUC: 0.841
+   Avg Run Time (ms/batch): 2.683 AUC: 0.708 max AUC: 0.841
+   Avg Run Time (ms/batch): 2.713 AUC: 0.671 max AUC: 0.841
+   Avg Run Time (ms/batch): 2.692 AUC: 0.725 max AUC: 0.841
+   Avg Run Time (ms/batch): 2.692 AUC: 0.718 max AUC: 0.841
+================ Training Loss (Fri Oct 25 19:15:35 2019) ================
+   Avg Run Time (ms/batch): 2.702 AUC: 0.771 max AUC: 0.771
+   Avg Run Time (ms/batch): 2.823 AUC: 0.804 max AUC: 0.804
+   Avg Run Time (ms/batch): 2.743 AUC: 0.783 max AUC: 0.804
+   Avg Run Time (ms/batch): 2.492 AUC: 0.770 max AUC: 0.804
+   Avg Run Time (ms/batch): 2.673 AUC: 0.767 max AUC: 0.804
+   Avg Run Time (ms/batch): 2.893 AUC: 0.713 max AUC: 0.804
+   Avg Run Time (ms/batch): 2.865 AUC: 0.700 max AUC: 0.804
+   Avg Run Time (ms/batch): 2.943 AUC: 0.698 max AUC: 0.804
+   Avg Run Time (ms/batch): 2.492 AUC: 0.688 max AUC: 0.804
+   Avg Run Time (ms/batch): 2.702 AUC: 0.711 max AUC: 0.804
+   Avg Run Time (ms/batch): 2.808 AUC: 0.693 max AUC: 0.804
+   Avg Run Time (ms/batch): 2.543 AUC: 0.691 max AUC: 0.804
+   Avg Run Time (ms/batch): 2.913 AUC: 0.656 max AUC: 0.804
+   Avg Run Time (ms/batch): 2.663 AUC: 0.687 max AUC: 0.804
+   Avg Run Time (ms/batch): 2.522 AUC: 0.678 max AUC: 0.804
+================ Training Loss (Fri Oct 25 19:48:58 2019) ================
+   Avg Run Time (ms/batch): 2.692 AUC: 0.794 max AUC: 0.794
+   Avg Run Time (ms/batch): 2.713 AUC: 0.719 max AUC: 0.794
+   Avg Run Time (ms/batch): 2.743 AUC: 0.790 max AUC: 0.794
+   Avg Run Time (ms/batch): 2.743 AUC: 0.724 max AUC: 0.794
+   Avg Run Time (ms/batch): 2.662 AUC: 0.705 max AUC: 0.794
+   Avg Run Time (ms/batch): 2.832 AUC: 0.730 max AUC: 0.794
+   Avg Run Time (ms/batch): 2.773 AUC: 0.736 max AUC: 0.794
+   Avg Run Time (ms/batch): 2.753 AUC: 0.697 max AUC: 0.794
+   Avg Run Time (ms/batch): 2.753 AUC: 0.690 max AUC: 0.794
+   Avg Run Time (ms/batch): 2.742 AUC: 0.621 max AUC: 0.794
+   Avg Run Time (ms/batch): 2.733 AUC: 0.705 max AUC: 0.794
+   Avg Run Time (ms/batch): 2.773 AUC: 0.703 max AUC: 0.794
+   Avg Run Time (ms/batch): 2.682 AUC: 0.696 max AUC: 0.794
+   Avg Run Time (ms/batch): 2.713 AUC: 0.677 max AUC: 0.794
+   Avg Run Time (ms/batch): 2.712 AUC: 0.671 max AUC: 0.794
+================ Training Loss (Fri Oct 25 20:16:23 2019) ================
+   Avg Run Time (ms/batch): 2.703 AUC: 0.854 max AUC: 0.854
+   Avg Run Time (ms/batch): 3.043 AUC: 0.840 max AUC: 0.854
+   Avg Run Time (ms/batch): 2.783 AUC: 0.830 max AUC: 0.854
+   Avg Run Time (ms/batch): 2.688 AUC: 0.781 max AUC: 0.854
+   Avg Run Time (ms/batch): 2.693 AUC: 0.770 max AUC: 0.854
+   Avg Run Time (ms/batch): 2.733 AUC: 0.741 max AUC: 0.854
+   Avg Run Time (ms/batch): 2.817 AUC: 0.736 max AUC: 0.854
+   Avg Run Time (ms/batch): 2.743 AUC: 0.722 max AUC: 0.854
+   Avg Run Time (ms/batch): 2.683 AUC: 0.734 max AUC: 0.854
+   Avg Run Time (ms/batch): 2.743 AUC: 0.767 max AUC: 0.854
+   Avg Run Time (ms/batch): 2.723 AUC: 0.728 max AUC: 0.854
+   Avg Run Time (ms/batch): 2.733 AUC: 0.709 max AUC: 0.854
+   Avg Run Time (ms/batch): 2.713 AUC: 0.710 max AUC: 0.854
+   Avg Run Time (ms/batch): 2.723 AUC: 0.716 max AUC: 0.854
+   Avg Run Time (ms/batch): 2.703 AUC: 0.712 max AUC: 0.854
+================ Training Loss (Fri Oct 25 20:25:59 2019) ================
+   Avg Run Time (ms/batch): 2.736 AUC: 0.857 max AUC: 0.857
+   Avg Run Time (ms/batch): 2.733 AUC: 0.811 max AUC: 0.857
+   Avg Run Time (ms/batch): 2.673 AUC: 0.835 max AUC: 0.857
+   Avg Run Time (ms/batch): 2.778 AUC: 0.829 max AUC: 0.857
+   Avg Run Time (ms/batch): 2.803 AUC: 0.840 max AUC: 0.857
+   Avg Run Time (ms/batch): 2.753 AUC: 0.808 max AUC: 0.857
+   Avg Run Time (ms/batch): 2.748 AUC: 0.816 max AUC: 0.857
+   Avg Run Time (ms/batch): 2.753 AUC: 0.807 max AUC: 0.857
+   Avg Run Time (ms/batch): 2.713 AUC: 0.828 max AUC: 0.857
+   Avg Run Time (ms/batch): 2.603 AUC: 0.789 max AUC: 0.857
+   Avg Run Time (ms/batch): 2.823 AUC: 0.818 max AUC: 0.857
+   Avg Run Time (ms/batch): 2.793 AUC: 0.800 max AUC: 0.857
+   Avg Run Time (ms/batch): 2.743 AUC: 0.797 max AUC: 0.857
+   Avg Run Time (ms/batch): 2.783 AUC: 0.820 max AUC: 0.857
+   Avg Run Time (ms/batch): 2.783 AUC: 0.799 max AUC: 0.857
+================ Training Loss (Fri Oct 25 20:38:48 2019) ================
+   Avg Run Time (ms/batch): 2.753 AUC: 0.694 max AUC: 0.694
+   Avg Run Time (ms/batch): 2.748 AUC: 0.560 max AUC: 0.694
+   Avg Run Time (ms/batch): 2.732 AUC: 0.552 max AUC: 0.694
+   Avg Run Time (ms/batch): 2.762 AUC: 0.507 max AUC: 0.694
+   Avg Run Time (ms/batch): 2.702 AUC: 0.528 max AUC: 0.694
+   Avg Run Time (ms/batch): 2.722 AUC: 0.493 max AUC: 0.694
+   Avg Run Time (ms/batch): 2.712 AUC: 0.587 max AUC: 0.694
+   Avg Run Time (ms/batch): 2.682 AUC: 0.534 max AUC: 0.694
+   Avg Run Time (ms/batch): 2.693 AUC: 0.536 max AUC: 0.694
+   Avg Run Time (ms/batch): 2.713 AUC: 0.540 max AUC: 0.694
+   Avg Run Time (ms/batch): 2.722 AUC: 0.535 max AUC: 0.694
+   Avg Run Time (ms/batch): 2.693 AUC: 0.557 max AUC: 0.694
+   Avg Run Time (ms/batch): 2.722 AUC: 0.523 max AUC: 0.694
+   Avg Run Time (ms/batch): 2.702 AUC: 0.469 max AUC: 0.694
+   Avg Run Time (ms/batch): 2.743 AUC: 0.583 max AUC: 0.694
+================ Training Loss (Fri Oct 25 20:55:39 2019) ================
+   Avg Run Time (ms/batch): 2.712 AUC: 0.560 max AUC: 0.560
+   Avg Run Time (ms/batch): 2.763 AUC: 0.644 max AUC: 0.644
+   Avg Run Time (ms/batch): 2.692 AUC: 0.602 max AUC: 0.644
+   Avg Run Time (ms/batch): 2.712 AUC: 0.547 max AUC: 0.644
+   Avg Run Time (ms/batch): 2.748 AUC: 0.609 max AUC: 0.644
+   Avg Run Time (ms/batch): 2.702 AUC: 0.514 max AUC: 0.644
+   Avg Run Time (ms/batch): 2.762 AUC: 0.594 max AUC: 0.644
+   Avg Run Time (ms/batch): 2.762 AUC: 0.472 max AUC: 0.644
+   Avg Run Time (ms/batch): 2.762 AUC: 0.551 max AUC: 0.644
+   Avg Run Time (ms/batch): 2.702 AUC: 0.519 max AUC: 0.644
+   Avg Run Time (ms/batch): 2.742 AUC: 0.587 max AUC: 0.644
+   Avg Run Time (ms/batch): 2.722 AUC: 0.502 max AUC: 0.644
+   Avg Run Time (ms/batch): 2.813 AUC: 0.518 max AUC: 0.644
+   Avg Run Time (ms/batch): 2.723 AUC: 0.524 max AUC: 0.644
+   Avg Run Time (ms/batch): 2.702 AUC: 0.529 max AUC: 0.644
+================ Training Loss (Sun Oct 27 21:41:29 2019) ================
+   Avg Run Time (ms/batch): 2.703 AUC: 0.681 max AUC: 0.681
+================ Training Loss (Sun Oct 27 21:42:39 2019) ================
+================ Training Loss (Sun Oct 27 21:43:19 2019) ================
+================ Training Loss (Sun Oct 27 21:43:52 2019) ================
+================ Training Loss (Mon Oct 28 15:33:38 2019) ================
+   Avg Run Time (ms/batch): 2.573 AUC: 0.605 max AUC: 0.605
+================ Training Loss (Mon Oct 28 15:57:11 2019) ================
+================ Training Loss (Mon Oct 28 16:23:36 2019) ================
+================ Training Loss (Mon Oct 28 16:26:36 2019) ================
+================ Training Loss (Mon Oct 28 16:29:21 2019) ================
+================ Training Loss (Mon Oct 28 16:30:24 2019) ================
+================ Training Loss (Mon Oct 28 16:32:49 2019) ================
+================ Training Loss (Mon Oct 28 16:37:40 2019) ================
+================ Training Loss (Mon Oct 28 16:38:36 2019) ================
+================ Training Loss (Mon Oct 28 17:11:56 2019) ================
+================ Training Loss (Mon Oct 28 17:12:13 2019) ================
+================ Training Loss (Mon Oct 28 17:25:42 2019) ================
+================ Training Loss (Mon Oct 28 17:28:18 2019) ================
+================ Training Loss (Mon Oct 28 17:30:24 2019) ================
+================ Training Loss (Mon Oct 28 17:31:56 2019) ================
+================ Training Loss (Mon Oct 28 17:33:25 2019) ================
+================ Training Loss (Mon Oct 28 17:44:07 2019) ================
+================ Training Loss (Mon Oct 28 17:46:46 2019) ================
+================ Training Loss (Mon Oct 28 19:28:53 2019) ================
+================ Training Loss (Mon Oct 28 19:30:05 2019) ================
+================ Training Loss (Mon Oct 28 19:51:54 2019) ================
+================ Training Loss (Mon Oct 28 19:57:20 2019) ================
+================ Training Loss (Mon Oct 28 19:58:00 2019) ================
+================ Training Loss (Mon Oct 28 20:04:00 2019) ================
+================ Training Loss (Mon Oct 28 20:23:50 2019) ================
+================ Training Loss (Mon Oct 28 20:34:49 2019) ================
+================ Training Loss (Mon Oct 28 20:35:20 2019) ================
+================ Training Loss (Mon Oct 28 20:46:32 2019) ================
+================ Training Loss (Mon Oct 28 20:56:18 2019) ================
+================ Training Loss (Mon Oct 28 21:00:23 2019) ================
+================ Training Loss (Mon Oct 28 21:01:17 2019) ================
+================ Training Loss (Mon Oct 28 21:02:16 2019) ================
+================ Training Loss (Mon Oct 28 21:03:04 2019) ================
+================ Training Loss (Mon Oct 28 21:04:14 2019) ================
+================ Training Loss (Mon Oct 28 21:06:22 2019) ================
+================ Training Loss (Mon Oct 28 21:16:33 2019) ================
+================ Training Loss (Mon Oct 28 21:20:14 2019) ================
+================ Training Loss (Mon Oct 28 21:24:07 2019) ================
+================ Training Loss (Mon Oct 28 21:24:52 2019) ================
+================ Training Loss (Mon Oct 28 21:30:10 2019) ================
+================ Training Loss (Mon Oct 28 21:31:46 2019) ================
+================ Training Loss (Mon Oct 28 21:33:24 2019) ================
+================ Training Loss (Tue Oct 29 09:16:59 2019) ================
+================ Training Loss (Tue Oct 29 09:23:26 2019) ================
+================ Training Loss (Tue Oct 29 09:23:45 2019) ================
+   Avg Run Time (ms/batch): 2.813 AUC: 0.630 max AUC: 0.630
+================ Training Loss (Tue Oct 29 09:26:47 2019) ================
+================ Training Loss (Tue Oct 29 09:54:12 2019) ================
+================ Training Loss (Tue Oct 29 09:59:22 2019) ================
+================ Training Loss (Tue Oct 29 10:02:02 2019) ================
+================ Training Loss (Tue Oct 29 10:03:06 2019) ================
+================ Training Loss (Tue Oct 29 10:08:08 2019) ================
+================ Training Loss (Tue Oct 29 10:09:44 2019) ================
+================ Training Loss (Tue Oct 29 11:10:48 2019) ================
+================ Training Loss (Tue Oct 29 11:11:23 2019) ================
+================ Training Loss (Tue Oct 29 11:12:42 2019) ================
+================ Training Loss (Tue Oct 29 11:13:17 2019) ================
+================ Training Loss (Tue Oct 29 11:47:14 2019) ================
+================ Training Loss (Tue Oct 29 11:55:41 2019) ================
+================ Training Loss (Tue Oct 29 15:37:54 2019) ================
+================ Training Loss (Tue Oct 29 15:38:53 2019) ================
+================ Training Loss (Tue Oct 29 15:42:13 2019) ================
+================ Training Loss (Tue Oct 29 16:00:37 2019) ================
+================ Training Loss (Tue Oct 29 16:02:09 2019) ================
+================ Training Loss (Tue Oct 29 16:03:45 2019) ================
+================ Training Loss (Tue Oct 29 16:12:00 2019) ================
+================ Training Loss (Tue Oct 29 16:24:51 2019) ================
+================ Training Loss (Tue Oct 29 16:31:42 2019) ================
+================ Training Loss (Tue Oct 29 16:35:07 2019) ================
+================ Training Loss (Tue Oct 29 16:36:06 2019) ================
+================ Training Loss (Tue Oct 29 16:36:59 2019) ================
+================ Training Loss (Tue Oct 29 16:50:37 2019) ================
+================ Training Loss (Tue Oct 29 16:57:55 2019) ================
+================ Training Loss (Tue Oct 29 16:59:31 2019) ================
+================ Training Loss (Tue Oct 29 17:01:01 2019) ================
+   Avg Run Time (ms/batch): 2.893 AUC: 0.785 max AUC: 0.785
+   Avg Run Time (ms/batch): 2.943 AUC: 0.907 max AUC: 0.907
+   Avg Run Time (ms/batch): 2.842 AUC: 0.872 max AUC: 0.907
+   Avg Run Time (ms/batch): 2.893 AUC: 0.871 max AUC: 0.907
+   Avg Run Time (ms/batch): 2.943 AUC: 0.804 max AUC: 0.907
+   Avg Run Time (ms/batch): 2.943 AUC: 0.937 max AUC: 0.937
+   Avg Run Time (ms/batch): 2.843 AUC: 0.905 max AUC: 0.937
+   Avg Run Time (ms/batch): 2.843 AUC: 0.909 max AUC: 0.937
+   Avg Run Time (ms/batch): 2.873 AUC: 0.843 max AUC: 0.937
+   Avg Run Time (ms/batch): 2.862 AUC: 0.883 max AUC: 0.937
+   Avg Run Time (ms/batch): 2.873 AUC: 0.852 max AUC: 0.937
+   Avg Run Time (ms/batch): 2.863 AUC: 0.936 max AUC: 0.937
+   Avg Run Time (ms/batch): 2.832 AUC: 0.873 max AUC: 0.937
+   Avg Run Time (ms/batch): 2.843 AUC: 0.895 max AUC: 0.937
+   Avg Run Time (ms/batch): 2.853 AUC: 0.909 max AUC: 0.937
+================ Training Loss (Wed Oct 30 11:14:34 2019) ================
+   Avg Run Time (ms/batch): 2.923 AUC: 0.703 max AUC: 0.703
+   Avg Run Time (ms/batch): 2.923 AUC: 0.332 max AUC: 0.703
+   Avg Run Time (ms/batch): 2.913 AUC: 0.289 max AUC: 0.703
+   Avg Run Time (ms/batch): 2.923 AUC: 0.287 max AUC: 0.703
+   Avg Run Time (ms/batch): 2.903 AUC: 0.314 max AUC: 0.703
+   Avg Run Time (ms/batch): 2.913 AUC: 0.340 max AUC: 0.703
+   Avg Run Time (ms/batch): 2.923 AUC: 0.308 max AUC: 0.703
+   Avg Run Time (ms/batch): 2.933 AUC: 0.770 max AUC: 0.770
+   Avg Run Time (ms/batch): 2.893 AUC: 0.906 max AUC: 0.906
+   Avg Run Time (ms/batch): 2.963 AUC: 0.782 max AUC: 0.906
+   Avg Run Time (ms/batch): 2.933 AUC: 0.433 max AUC: 0.906
+   Avg Run Time (ms/batch): 2.903 AUC: 0.732 max AUC: 0.906
+   Avg Run Time (ms/batch): 2.923 AUC: 0.885 max AUC: 0.906
+   Avg Run Time (ms/batch): 2.943 AUC: 0.955 max AUC: 0.955
+   Avg Run Time (ms/batch): 2.923 AUC: 0.965 max AUC: 0.965
+================ Training Loss (Wed Oct 30 14:24:35 2019) ================
+   Avg Run Time (ms/batch): 2.893 AUC: 0.663 max AUC: 0.663
+   Avg Run Time (ms/batch): 2.933 AUC: 0.741 max AUC: 0.741
+   Avg Run Time (ms/batch): 2.932 AUC: 0.425 max AUC: 0.741
+   Avg Run Time (ms/batch): 2.913 AUC: 0.550 max AUC: 0.741
+   Avg Run Time (ms/batch): 2.893 AUC: 0.932 max AUC: 0.932
+   Avg Run Time (ms/batch): 2.913 AUC: 0.988 max AUC: 0.988
+   Avg Run Time (ms/batch): 2.933 AUC: 0.995 max AUC: 0.995
+   Avg Run Time (ms/batch): 2.893 AUC: 0.994 max AUC: 0.995
+   Avg Run Time (ms/batch): 2.913 AUC: 0.994 max AUC: 0.995
+   Avg Run Time (ms/batch): 2.893 AUC: 0.993 max AUC: 0.995
+   Avg Run Time (ms/batch): 2.903 AUC: 0.996 max AUC: 0.996
+   Avg Run Time (ms/batch): 2.913 AUC: 0.995 max AUC: 0.996
+   Avg Run Time (ms/batch): 2.933 AUC: 0.993 max AUC: 0.996
+   Avg Run Time (ms/batch): 2.953 AUC: 0.991 max AUC: 0.996
+   Avg Run Time (ms/batch): 2.893 AUC: 0.990 max AUC: 0.996
+================ Training Loss (Wed Oct 30 15:41:35 2019) ================
+   Avg Run Time (ms/batch): 2.893 AUC: 0.926 max AUC: 0.926
+   Avg Run Time (ms/batch): 2.933 AUC: 0.694 max AUC: 0.926
+   Avg Run Time (ms/batch): 2.916 AUC: 0.242 max AUC: 0.926
+   Avg Run Time (ms/batch): 2.903 AUC: 0.316 max AUC: 0.926
+   Avg Run Time (ms/batch): 2.908 AUC: 0.255 max AUC: 0.926
+   Avg Run Time (ms/batch): 2.938 AUC: 0.309 max AUC: 0.926
+   Avg Run Time (ms/batch): 2.963 AUC: 0.510 max AUC: 0.926
+   Avg Run Time (ms/batch): 2.893 AUC: 0.983 max AUC: 0.983
+   Avg Run Time (ms/batch): 2.913 AUC: 0.966 max AUC: 0.983
+   Avg Run Time (ms/batch): 2.923 AUC: 0.975 max AUC: 0.983
+   Avg Run Time (ms/batch): 2.923 AUC: 0.944 max AUC: 0.983
+   Avg Run Time (ms/batch): 2.943 AUC: 0.958 max AUC: 0.983
+   Avg Run Time (ms/batch): 2.933 AUC: 0.896 max AUC: 0.983
+   Avg Run Time (ms/batch): 2.923 AUC: 0.864 max AUC: 0.983
+   Avg Run Time (ms/batch): 2.953 AUC: 0.853 max AUC: 0.983
+================ Training Loss (Wed Oct 30 16:12:42 2019) ================
+   Avg Run Time (ms/batch): 2.885 AUC: 0.485 max AUC: 0.485
+   Avg Run Time (ms/batch): 2.953 AUC: 0.009 max AUC: 0.485
+   Avg Run Time (ms/batch): 2.913 AUC: 0.040 max AUC: 0.485
+   Avg Run Time (ms/batch): 2.963 AUC: 0.015 max AUC: 0.485
+   Avg Run Time (ms/batch): 2.933 AUC: 0.040 max AUC: 0.485
+   Avg Run Time (ms/batch): 2.873 AUC: 0.030 max AUC: 0.485
+   Avg Run Time (ms/batch): 2.953 AUC: 0.060 max AUC: 0.485
+   Avg Run Time (ms/batch): 2.903 AUC: 0.075 max AUC: 0.485
+   Avg Run Time (ms/batch): 2.863 AUC: 0.040 max AUC: 0.485
+   Avg Run Time (ms/batch): 2.888 AUC: 0.045 max AUC: 0.485
+   Avg Run Time (ms/batch): 2.928 AUC: 0.005 max AUC: 0.485
+   Avg Run Time (ms/batch): 2.893 AUC: 0.056 max AUC: 0.485
+   Avg Run Time (ms/batch): 2.923 AUC: 0.082 max AUC: 0.485
+   Avg Run Time (ms/batch): 2.882 AUC: 0.017 max AUC: 0.485
+   Avg Run Time (ms/batch): 2.913 AUC: 0.073 max AUC: 0.485
+================ Training Loss (Wed Oct 30 17:04:34 2019) ================
+   Avg Run Time (ms/batch): 2.903 AUC: 0.821 max AUC: 0.821
+   Avg Run Time (ms/batch): 2.873 AUC: 0.951 max AUC: 0.951
+   Avg Run Time (ms/batch): 2.933 AUC: 0.989 max AUC: 0.989
+   Avg Run Time (ms/batch): 2.903 AUC: 0.972 max AUC: 0.989
+   Avg Run Time (ms/batch): 2.933 AUC: 0.948 max AUC: 0.989
+   Avg Run Time (ms/batch): 2.882 AUC: 0.988 max AUC: 0.989
+   Avg Run Time (ms/batch): 2.922 AUC: 0.981 max AUC: 0.989
+   Avg Run Time (ms/batch): 2.903 AUC: 0.957 max AUC: 0.989
+   Avg Run Time (ms/batch): 2.993 AUC: 0.990 max AUC: 0.990
+   Avg Run Time (ms/batch): 2.912 AUC: 0.912 max AUC: 0.990
+   Avg Run Time (ms/batch): 2.922 AUC: 0.972 max AUC: 0.990
+   Avg Run Time (ms/batch): 2.893 AUC: 0.983 max AUC: 0.990
+   Avg Run Time (ms/batch): 2.903 AUC: 0.991 max AUC: 0.991
+   Avg Run Time (ms/batch): 2.882 AUC: 0.979 max AUC: 0.991
+   Avg Run Time (ms/batch): 2.933 AUC: 0.955 max AUC: 0.991
+================ Training Loss (Wed Oct 30 19:25:39 2019) ================
+   Avg Run Time (ms/batch): 2.883 AUC: 0.891 max AUC: 0.891
+   Avg Run Time (ms/batch): 2.893 AUC: 0.983 max AUC: 0.983
+================ Training Loss (Wed Oct 30 19:31:55 2019) ================
+   Avg Run Time (ms/batch): 2.913 AUC: 0.505 max AUC: 0.505
+   Avg Run Time (ms/batch): 2.953 AUC: 0.981 max AUC: 0.981
+   Avg Run Time (ms/batch): 2.903 AUC: 0.994 max AUC: 0.994
+   Avg Run Time (ms/batch): 2.923 AUC: 0.869 max AUC: 0.994
+   Avg Run Time (ms/batch): 2.943 AUC: 0.992 max AUC: 0.994
+   Avg Run Time (ms/batch): 2.943 AUC: 0.976 max AUC: 0.994
+   Avg Run Time (ms/batch): 2.903 AUC: 0.986 max AUC: 0.994
+   Avg Run Time (ms/batch): 2.913 AUC: 0.992 max AUC: 0.994
+   Avg Run Time (ms/batch): 2.933 AUC: 0.990 max AUC: 0.994
+   Avg Run Time (ms/batch): 2.923 AUC: 0.993 max AUC: 0.994
+   Avg Run Time (ms/batch): 2.893 AUC: 0.860 max AUC: 0.994
+   Avg Run Time (ms/batch): 2.923 AUC: 0.993 max AUC: 0.994
+   Avg Run Time (ms/batch): 2.903 AUC: 0.977 max AUC: 0.994
+   Avg Run Time (ms/batch): 2.933 AUC: 0.989 max AUC: 0.994
+   Avg Run Time (ms/batch): 2.903 AUC: 0.929 max AUC: 0.994
+================ Training Loss (Fri Nov  1 18:01:15 2019) ================
+================ Training Loss (Fri Nov  1 18:02:04 2019) ================
+================ Training Loss (Fri Nov  1 18:02:31 2019) ================
+================ Training Loss (Fri Nov  1 18:06:44 2019) ================
+================ Training Loss (Fri Nov  1 18:10:03 2019) ================
+   Avg Run Time (ms/batch): 6.506 AUC: 0.487 max AUC: 0.487
+   Avg Run Time (ms/batch): 7.006 AUC: 0.392 max AUC: 0.487
+   Avg Run Time (ms/batch): 7.507 AUC: 0.372 max AUC: 0.487
+   Avg Run Time (ms/batch): 7.511 AUC: 0.513 max AUC: 0.513
+   Avg Run Time (ms/batch): 7.006 AUC: 0.585 max AUC: 0.585
+   Avg Run Time (ms/batch): 7.506 AUC: 0.439 max AUC: 0.585
+   Avg Run Time (ms/batch): 7.006 AUC: 0.625 max AUC: 0.625
+   Avg Run Time (ms/batch): 7.507 AUC: 0.784 max AUC: 0.784
+   Avg Run Time (ms/batch): 7.007 AUC: 0.465 max AUC: 0.784
+   Avg Run Time (ms/batch): 7.006 AUC: 0.793 max AUC: 0.793
+   Avg Run Time (ms/batch): 7.507 AUC: 0.759 max AUC: 0.793
+   Avg Run Time (ms/batch): 7.006 AUC: 0.703 max AUC: 0.793
+   Avg Run Time (ms/batch): 7.006 AUC: 0.693 max AUC: 0.793
+   Avg Run Time (ms/batch): 7.006 AUC: 0.483 max AUC: 0.793
+   Avg Run Time (ms/batch): 6.506 AUC: 0.770 max AUC: 0.793
+================ Training Loss (Fri Nov  1 18:11:37 2019) ================
+   Avg Run Time (ms/batch): 7.511 AUC: 0.502 max AUC: 0.502
+   Avg Run Time (ms/batch): 7.007 AUC: 0.672 max AUC: 0.672
+   Avg Run Time (ms/batch): 7.006 AUC: 0.717 max AUC: 0.717
+   Avg Run Time (ms/batch): 7.006 AUC: 0.565 max AUC: 0.717
+   Avg Run Time (ms/batch): 7.007 AUC: 0.559 max AUC: 0.717
+   Avg Run Time (ms/batch): 7.006 AUC: 0.265 max AUC: 0.717
+   Avg Run Time (ms/batch): 7.507 AUC: 0.506 max AUC: 0.717
+   Avg Run Time (ms/batch): 7.507 AUC: 0.632 max AUC: 0.717
+   Avg Run Time (ms/batch): 6.506 AUC: 0.455 max AUC: 0.717
+   Avg Run Time (ms/batch): 6.506 AUC: 0.488 max AUC: 0.717
+   Avg Run Time (ms/batch): 6.506 AUC: 0.727 max AUC: 0.727
+   Avg Run Time (ms/batch): 8.008 AUC: 0.635 max AUC: 0.727
+   Avg Run Time (ms/batch): 7.006 AUC: 0.378 max AUC: 0.727
+   Avg Run Time (ms/batch): 6.506 AUC: 0.805 max AUC: 0.805
+   Avg Run Time (ms/batch): 7.006 AUC: 0.829 max AUC: 0.829
+   Avg Run Time (ms/batch): 6.506 AUC: 0.860 max AUC: 0.860
+   Avg Run Time (ms/batch): 7.006 AUC: 0.716 max AUC: 0.860
+   Avg Run Time (ms/batch): 7.507 AUC: 0.756 max AUC: 0.860
+   Avg Run Time (ms/batch): 6.506 AUC: 0.697 max AUC: 0.860
+   Avg Run Time (ms/batch): 7.507 AUC: 0.773 max AUC: 0.860
+   Avg Run Time (ms/batch): 7.507 AUC: 0.764 max AUC: 0.860
+   Avg Run Time (ms/batch): 7.507 AUC: 0.797 max AUC: 0.860
+   Avg Run Time (ms/batch): 7.507 AUC: 0.805 max AUC: 0.860
+   Avg Run Time (ms/batch): 7.006 AUC: 0.672 max AUC: 0.860
+   Avg Run Time (ms/batch): 7.507 AUC: 0.754 max AUC: 0.860
+   Avg Run Time (ms/batch): 7.507 AUC: 0.829 max AUC: 0.860
+   Avg Run Time (ms/batch): 7.006 AUC: 0.620 max AUC: 0.860
+   Avg Run Time (ms/batch): 6.506 AUC: 0.759 max AUC: 0.860
+   Avg Run Time (ms/batch): 7.007 AUC: 0.789 max AUC: 0.860
+   Avg Run Time (ms/batch): 7.507 AUC: 0.691 max AUC: 0.860
+================ Training Loss (Fri Nov  1 18:12:00 2019) ================
+   Avg Run Time (ms/batch): 7.006 AUC: 0.335 max AUC: 0.335
+   Avg Run Time (ms/batch): 7.507 AUC: 0.474 max AUC: 0.474
+   Avg Run Time (ms/batch): 8.007 AUC: 0.450 max AUC: 0.474
+   Avg Run Time (ms/batch): 6.506 AUC: 0.611 max AUC: 0.611
+   Avg Run Time (ms/batch): 7.006 AUC: 0.635 max AUC: 0.635
+   Avg Run Time (ms/batch): 8.007 AUC: 0.822 max AUC: 0.822
+   Avg Run Time (ms/batch): 7.006 AUC: 0.795 max AUC: 0.822
+   Avg Run Time (ms/batch): 7.507 AUC: 0.844 max AUC: 0.844
+   Avg Run Time (ms/batch): 7.007 AUC: 0.600 max AUC: 0.844
+   Avg Run Time (ms/batch): 7.507 AUC: 0.854 max AUC: 0.854
+   Avg Run Time (ms/batch): 6.506 AUC: 0.760 max AUC: 0.854
+   Avg Run Time (ms/batch): 7.007 AUC: 0.812 max AUC: 0.854
+   Avg Run Time (ms/batch): 7.006 AUC: 0.723 max AUC: 0.854
+   Avg Run Time (ms/batch): 7.507 AUC: 0.791 max AUC: 0.854
+   Avg Run Time (ms/batch): 6.506 AUC: 0.803 max AUC: 0.854
+================ Training Loss (Fri Nov  1 18:12:58 2019) ================
+   Avg Run Time (ms/batch): 7.506 AUC: 0.520 max AUC: 0.520
+   Avg Run Time (ms/batch): 6.505 AUC: 0.821 max AUC: 0.821
+   Avg Run Time (ms/batch): 7.506 AUC: 0.564 max AUC: 0.821
+   Avg Run Time (ms/batch): 7.006 AUC: 0.769 max AUC: 0.821
+   Avg Run Time (ms/batch): 6.506 AUC: 0.853 max AUC: 0.853
+   Avg Run Time (ms/batch): 7.507 AUC: 0.482 max AUC: 0.853
+   Avg Run Time (ms/batch): 7.006 AUC: 0.867 max AUC: 0.867
+   Avg Run Time (ms/batch): 7.507 AUC: 0.841 max AUC: 0.867
+   Avg Run Time (ms/batch): 7.507 AUC: 0.830 max AUC: 0.867
+   Avg Run Time (ms/batch): 7.507 AUC: 0.644 max AUC: 0.867
+   Avg Run Time (ms/batch): 7.006 AUC: 0.859 max AUC: 0.867
+   Avg Run Time (ms/batch): 6.506 AUC: 0.670 max AUC: 0.867
+   Avg Run Time (ms/batch): 7.006 AUC: 0.661 max AUC: 0.867
+   Avg Run Time (ms/batch): 7.507 AUC: 0.736 max AUC: 0.867
+   Avg Run Time (ms/batch): 7.006 AUC: 0.783 max AUC: 0.867
+================ Training Loss (Fri Nov  1 18:15:37 2019) ================
+   Avg Run Time (ms/batch): 7.006 AUC: 0.632 max AUC: 0.632
+   Avg Run Time (ms/batch): 7.507 AUC: 0.748 max AUC: 0.748
+   Avg Run Time (ms/batch): 7.006 AUC: 0.760 max AUC: 0.760
+   Avg Run Time (ms/batch): 6.504 AUC: 0.820 max AUC: 0.820
+   Avg Run Time (ms/batch): 6.506 AUC: 0.622 max AUC: 0.820
+   Avg Run Time (ms/batch): 7.006 AUC: 0.847 max AUC: 0.847
+   Avg Run Time (ms/batch): 7.007 AUC: 0.815 max AUC: 0.847
+   Avg Run Time (ms/batch): 7.507 AUC: 0.695 max AUC: 0.847
+   Avg Run Time (ms/batch): 7.006 AUC: 0.804 max AUC: 0.847
+   Avg Run Time (ms/batch): 7.507 AUC: 0.656 max AUC: 0.847
+   Avg Run Time (ms/batch): 7.006 AUC: 0.846 max AUC: 0.847
+   Avg Run Time (ms/batch): 7.507 AUC: 0.816 max AUC: 0.847
+   Avg Run Time (ms/batch): 6.506 AUC: 0.727 max AUC: 0.847
+   Avg Run Time (ms/batch): 6.506 AUC: 0.779 max AUC: 0.847
+   Avg Run Time (ms/batch): 7.007 AUC: 0.801 max AUC: 0.847
+================ Training Loss (Fri Nov  1 18:16:08 2019) ================
+   Avg Run Time (ms/batch): 7.006 AUC: 0.628 max AUC: 0.628
+   Avg Run Time (ms/batch): 7.007 AUC: 0.597 max AUC: 0.628
+   Avg Run Time (ms/batch): 7.007 AUC: 0.804 max AUC: 0.804
+   Avg Run Time (ms/batch): 7.507 AUC: 0.732 max AUC: 0.804
+   Avg Run Time (ms/batch): 6.506 AUC: 0.785 max AUC: 0.804
+   Avg Run Time (ms/batch): 7.006 AUC: 0.652 max AUC: 0.804
+   Avg Run Time (ms/batch): 7.507 AUC: 0.697 max AUC: 0.804
+   Avg Run Time (ms/batch): 6.506 AUC: 0.860 max AUC: 0.860
+   Avg Run Time (ms/batch): 7.507 AUC: 0.789 max AUC: 0.860
+   Avg Run Time (ms/batch): 7.507 AUC: 0.588 max AUC: 0.860
+   Avg Run Time (ms/batch): 7.006 AUC: 0.864 max AUC: 0.864
+   Avg Run Time (ms/batch): 7.507 AUC: 0.819 max AUC: 0.864
+   Avg Run Time (ms/batch): 7.006 AUC: 0.737 max AUC: 0.864
+   Avg Run Time (ms/batch): 7.007 AUC: 0.882 max AUC: 0.882
+   Avg Run Time (ms/batch): 8.007 AUC: 0.774 max AUC: 0.882
+================ Training Loss (Fri Nov  1 18:23:36 2019) ================
+================ Training Loss (Fri Nov  1 18:24:19 2019) ================
+================ Training Loss (Fri Nov  1 18:25:45 2019) ================
+   Avg Run Time (ms/batch): 7.507 AUC: 0.338 max AUC: 0.338
+   Avg Run Time (ms/batch): 7.507 AUC: 0.735 max AUC: 0.735
+   Avg Run Time (ms/batch): 8.007 AUC: 0.476 max AUC: 0.735
+   Avg Run Time (ms/batch): 8.007 AUC: 0.695 max AUC: 0.735
+   Avg Run Time (ms/batch): 8.007 AUC: 0.587 max AUC: 0.735
+   Avg Run Time (ms/batch): 9.008 AUC: 0.708 max AUC: 0.735
+   Avg Run Time (ms/batch): 8.007 AUC: 0.568 max AUC: 0.735
+   Avg Run Time (ms/batch): 7.507 AUC: 0.716 max AUC: 0.735
+   Avg Run Time (ms/batch): 8.508 AUC: 0.720 max AUC: 0.735
+   Avg Run Time (ms/batch): 8.007 AUC: 0.725 max AUC: 0.735
+   Avg Run Time (ms/batch): 7.507 AUC: 0.642 max AUC: 0.735
+   Avg Run Time (ms/batch): 8.008 AUC: 0.804 max AUC: 0.804
+   Avg Run Time (ms/batch): 7.507 AUC: 0.773 max AUC: 0.804
+   Avg Run Time (ms/batch): 8.007 AUC: 0.491 max AUC: 0.804
+   Avg Run Time (ms/batch): 8.008 AUC: 0.587 max AUC: 0.804
+================ Training Loss (Fri Nov  1 18:25:56 2019) ================
+   Avg Run Time (ms/batch): 7.507 AUC: 0.467 max AUC: 0.467
+   Avg Run Time (ms/batch): 7.507 AUC: 0.445 max AUC: 0.467
+   Avg Run Time (ms/batch): 7.507 AUC: 0.821 max AUC: 0.821
+   Avg Run Time (ms/batch): 7.506 AUC: 0.670 max AUC: 0.821
+   Avg Run Time (ms/batch): 7.506 AUC: 0.713 max AUC: 0.821
+   Avg Run Time (ms/batch): 7.507 AUC: 0.777 max AUC: 0.821
+   Avg Run Time (ms/batch): 7.507 AUC: 0.742 max AUC: 0.821
+   Avg Run Time (ms/batch): 8.007 AUC: 0.560 max AUC: 0.821
+   Avg Run Time (ms/batch): 7.507 AUC: 0.686 max AUC: 0.821
+   Avg Run Time (ms/batch): 8.007 AUC: 0.514 max AUC: 0.821
+   Avg Run Time (ms/batch): 8.007 AUC: 0.566 max AUC: 0.821
+   Avg Run Time (ms/batch): 8.508 AUC: 0.804 max AUC: 0.821
+   Avg Run Time (ms/batch): 8.007 AUC: 0.812 max AUC: 0.821
+   Avg Run Time (ms/batch): 8.007 AUC: 0.548 max AUC: 0.821
+   Avg Run Time (ms/batch): 8.007 AUC: 0.826 max AUC: 0.826
+================ Training Loss (Fri Nov  1 18:26:04 2019) ================
+   Avg Run Time (ms/batch): 8.007 AUC: 0.586 max AUC: 0.586
+   Avg Run Time (ms/batch): 7.507 AUC: 0.573 max AUC: 0.586
+   Avg Run Time (ms/batch): 8.507 AUC: 0.674 max AUC: 0.674
+   Avg Run Time (ms/batch): 7.507 AUC: 0.685 max AUC: 0.685
+   Avg Run Time (ms/batch): 7.507 AUC: 0.654 max AUC: 0.685
+   Avg Run Time (ms/batch): 8.507 AUC: 0.729 max AUC: 0.729
+   Avg Run Time (ms/batch): 8.007 AUC: 0.602 max AUC: 0.729
+   Avg Run Time (ms/batch): 7.507 AUC: 0.717 max AUC: 0.729
+   Avg Run Time (ms/batch): 8.508 AUC: 0.770 max AUC: 0.770
+   Avg Run Time (ms/batch): 7.507 AUC: 0.694 max AUC: 0.770
+   Avg Run Time (ms/batch): 7.507 AUC: 0.786 max AUC: 0.786
+   Avg Run Time (ms/batch): 8.007 AUC: 0.796 max AUC: 0.796
+   Avg Run Time (ms/batch): 7.507 AUC: 0.704 max AUC: 0.796
+   Avg Run Time (ms/batch): 8.007 AUC: 0.765 max AUC: 0.796
+   Avg Run Time (ms/batch): 8.007 AUC: 0.676 max AUC: 0.796
+================ Training Loss (Fri Nov  1 18:31:41 2019) ================
+   Avg Run Time (ms/batch): 6.506 AUC: 0.712 max AUC: 0.712
+   Avg Run Time (ms/batch): 7.006 AUC: 0.814 max AUC: 0.814
+   Avg Run Time (ms/batch): 7.007 AUC: 0.655 max AUC: 0.814
+   Avg Run Time (ms/batch): 7.006 AUC: 0.656 max AUC: 0.814
+   Avg Run Time (ms/batch): 6.506 AUC: 0.733 max AUC: 0.814
+   Avg Run Time (ms/batch): 7.507 AUC: 0.817 max AUC: 0.817
+   Avg Run Time (ms/batch): 6.506 AUC: 0.816 max AUC: 0.817
+   Avg Run Time (ms/batch): 7.006 AUC: 0.823 max AUC: 0.823
+   Avg Run Time (ms/batch): 7.507 AUC: 0.839 max AUC: 0.839
+   Avg Run Time (ms/batch): 7.507 AUC: 0.692 max AUC: 0.839
+   Avg Run Time (ms/batch): 6.506 AUC: 0.762 max AUC: 0.839
+   Avg Run Time (ms/batch): 7.006 AUC: 0.792 max AUC: 0.839
+   Avg Run Time (ms/batch): 7.006 AUC: 0.710 max AUC: 0.839
+   Avg Run Time (ms/batch): 7.007 AUC: 0.753 max AUC: 0.839
+   Avg Run Time (ms/batch): 7.007 AUC: 0.761 max AUC: 0.839
+================ Training Loss (Wed Nov 13 17:21:30 2019) ================
+================ Training Loss (Wed Nov 13 17:22:21 2019) ================
+================ Training Loss (Wed Nov 13 17:24:37 2019) ================
+   Avg Run Time (ms/batch): 274.250 AUC: 0.760 max AUC: 0.760
+   Avg Run Time (ms/batch): 76.296 AUC: 0.493 max AUC: 0.760
+   Avg Run Time (ms/batch): 73.803 AUC: 0.783 max AUC: 0.783
+   Avg Run Time (ms/batch): 71.808 AUC: 0.554 max AUC: 0.783
+   Avg Run Time (ms/batch): 74.301 AUC: 0.580 max AUC: 0.783
+   Avg Run Time (ms/batch): 71.309 AUC: 0.694 max AUC: 0.783
+   Avg Run Time (ms/batch): 72.806 AUC: 0.729 max AUC: 0.783
+   Avg Run Time (ms/batch): 74.301 AUC: 0.450 max AUC: 0.783
+   Avg Run Time (ms/batch): 73.303 AUC: 0.801 max AUC: 0.801
+   Avg Run Time (ms/batch): 72.805 AUC: 0.744 max AUC: 0.801
+   Avg Run Time (ms/batch): 72.307 AUC: 0.718 max AUC: 0.801
+   Avg Run Time (ms/batch): 74.301 AUC: 0.805 max AUC: 0.805
+   Avg Run Time (ms/batch): 72.307 AUC: 0.809 max AUC: 0.809
+   Avg Run Time (ms/batch): 68.816 AUC: 0.796 max AUC: 0.809
+   Avg Run Time (ms/batch): 71.310 AUC: 0.798 max AUC: 0.809
